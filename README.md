@@ -1,2 +1,2 @@
 # real-estate-price-prediction-app
-Webapp to predict real estate prices
+This is a streamlit webapp which uses house details to predict the price of the house
